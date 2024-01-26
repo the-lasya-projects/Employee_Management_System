@@ -33,7 +33,6 @@ Create a database and configure the database connection in the config file.
 ## Run the application:
 npm start
 ## 4.n your browser and navigate to http://localhost:3000.
-
-om/the-lasya-projects/Employee_Management_System.git
+https://github.com/the-lasya-projects/Employee_Management_System/tree/main
 
    
